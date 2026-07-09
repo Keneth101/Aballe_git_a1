@@ -51,7 +51,7 @@ I'm an energetic and driven individual with a passion for technology and continu
 
 ### 📌 Repo Github
 - **Description:**  I make a repo for free open source
-- **Technologies Used:** CSS
+- **Technologies Used:** HTML CSS JS API
 - **Repository:** https://github.com/Keneth101/Testing-paste.git
 
 
